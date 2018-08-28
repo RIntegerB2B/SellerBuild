@@ -1,0 +1,121 @@
+{
+  "configVersion": 1,
+  "index": "/admin/index.html",
+  "assetGroups": [
+    {
+      "name": "Lencott",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/admin/favicon.ico",
+        "/admin/index.html",
+        "/admin/main.199743d388190ad69ad6.js",
+        "/admin/polyfills.e3633a42d1123afc5fc9.js",
+        "/admin/runtime.a66f828dca56eeb90e02.js",
+        "/admin/scripts.30e5019b0786e917a43c.js",
+        "/admin/styles.5278efcdde3f0b15270b.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/admin/assets/Styles/angularStyle.css",
+        "/admin/assets/Styles/bootstrapOverride.css",
+        "/admin/assets/Styles/commonStyle.css",
+        "/admin/assets/fonts/material-icons/MaterialIcons-Regular.eot",
+        "/admin/assets/fonts/material-icons/MaterialIcons-Regular.ijmap",
+        "/admin/assets/fonts/material-icons/MaterialIcons-Regular.svg",
+        "/admin/assets/fonts/material-icons/MaterialIcons-Regular.ttf",
+        "/admin/assets/fonts/material-icons/MaterialIcons-Regular.woff",
+        "/admin/assets/fonts/material-icons/MaterialIcons-Regular.woff2",
+        "/admin/assets/fonts/material-icons/README.md",
+        "/admin/assets/fonts/material-icons/codepoints",
+        "/admin/assets/fonts/material-icons/material-icons.css",
+        "/admin/assets/icons/edit-regular.svg",
+        "/admin/assets/icons/icon-128x128-old.png",
+        "/admin/assets/icons/icon-128x128.png",
+        "/admin/assets/icons/icon-144x144-old.png",
+        "/admin/assets/icons/icon-144x144.png",
+        "/admin/assets/icons/icon-152x152-old.png",
+        "/admin/assets/icons/icon-152x152.png",
+        "/admin/assets/icons/icon-192x192-old.png",
+        "/admin/assets/icons/icon-192x192.png",
+        "/admin/assets/icons/icon-384x384-old.png",
+        "/admin/assets/icons/icon-384x384.png",
+        "/admin/assets/icons/icon-512x512-old.png",
+        "/admin/assets/icons/icon-512x512.png",
+        "/admin/assets/icons/icon-72x72-old.png",
+        "/admin/assets/icons/icon-96x96-old.png",
+        "/admin/assets/icons/icon-96x96.jpg",
+        "/admin/assets/icons/icon-96x96.png",
+        "/admin/assets/images/B2B.jpg",
+        "/admin/assets/images/B2B1.jpg",
+        "/admin/assets/images/logo.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/admin/assets/Styles/angularStyle.css": "10e321052de8a2286f23ba30c6caf64434d0a1bf",
+    "/admin/assets/Styles/bootstrapOverride.css": "489ee46eaf15658e26cd4449005d2943c57e409a",
+    "/admin/assets/Styles/commonStyle.css": "bcd634e74ba27e4c09dce02b986b52ce344a7a45",
+    "/admin/assets/fonts/material-icons/MaterialIcons-Regular.eot": "26fb8cecb5512223277b4d290a24492a0f09ede1",
+    "/admin/assets/fonts/material-icons/MaterialIcons-Regular.ijmap": "df468e87685c24b2a5d431036d4d5a434efdc28e",
+    "/admin/assets/fonts/material-icons/MaterialIcons-Regular.svg": "137fc1c359db21f338ef9f8fe3dd83db5cb81784",
+    "/admin/assets/fonts/material-icons/MaterialIcons-Regular.ttf": "fc05de31234e0090f7ddc28ce1b23af4026cb1da",
+    "/admin/assets/fonts/material-icons/MaterialIcons-Regular.woff": "c6c953c2ccb2ca9abb21db8dbf473b5a435f0082",
+    "/admin/assets/fonts/material-icons/MaterialIcons-Regular.woff2": "09963592e8c953cc7e14e3fb0a5b05d5042e8435",
+    "/admin/assets/fonts/material-icons/README.md": "9e1c7d5992e1c7234775064e4de1d9fe60349c9f",
+    "/admin/assets/fonts/material-icons/codepoints": "9691b1d00fc99efe85f10bde89661f3c82ea09ed",
+    "/admin/assets/fonts/material-icons/material-icons.css": "e5583bb5718bf9902812fbf2277d2bf8378e2687",
+    "/admin/assets/icons/edit-regular.svg": "63d9ea457043d1bfacdbd226ce73a20e617083a1",
+    "/admin/assets/icons/icon-128x128-old.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/admin/assets/icons/icon-128x128.png": "40add3e94f8dae51bae04717bdcaba4324a128e5",
+    "/admin/assets/icons/icon-144x144-old.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/admin/assets/icons/icon-144x144.png": "40add3e94f8dae51bae04717bdcaba4324a128e5",
+    "/admin/assets/icons/icon-152x152-old.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/admin/assets/icons/icon-152x152.png": "40add3e94f8dae51bae04717bdcaba4324a128e5",
+    "/admin/assets/icons/icon-192x192-old.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/admin/assets/icons/icon-192x192.png": "40add3e94f8dae51bae04717bdcaba4324a128e5",
+    "/admin/assets/icons/icon-384x384-old.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/admin/assets/icons/icon-384x384.png": "40add3e94f8dae51bae04717bdcaba4324a128e5",
+    "/admin/assets/icons/icon-512x512-old.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/admin/assets/icons/icon-512x512.png": "40add3e94f8dae51bae04717bdcaba4324a128e5",
+    "/admin/assets/icons/icon-72x72-old.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/admin/assets/icons/icon-96x96-old.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/admin/assets/icons/icon-96x96.jpg": "055efafce2e8c576bb6d2779894eb67d0c135ee3",
+    "/admin/assets/icons/icon-96x96.png": "40add3e94f8dae51bae04717bdcaba4324a128e5",
+    "/admin/assets/images/B2B.jpg": "08e39d5c3f2fee0b81b0ad6d9dd7cd2890cd0877",
+    "/admin/assets/images/B2B1.jpg": "fd52a0244d83f5edd7a9bfce065638c6a4457e13",
+    "/admin/assets/images/logo.jpg": "055efafce2e8c576bb6d2779894eb67d0c135ee3",
+    "/admin/favicon.ico": "8e84a2ae4d8c5b712d8052879b5eacf042e7ca3f",
+    "/admin/index.html": "93cb04116fa5e001212ce46ace5d16c1f37fcbda",
+    "/admin/main.199743d388190ad69ad6.js": "0dfa400850937dff1850ec0f57b58d0331596d12",
+    "/admin/polyfills.e3633a42d1123afc5fc9.js": "5261a4729f780dd900641be94bd321182959641a",
+    "/admin/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
+    "/admin/scripts.30e5019b0786e917a43c.js": "155fa144c4d5f05a34481972bb8bd0fed811611a",
+    "/admin/styles.5278efcdde3f0b15270b.css": "268ab07cab86c767a2532a9e4eed7517433bb8c8"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^\\/]*\\.[^\\/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^\\/]*__[^\\/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^\\/]*__[^\\/]*\\/.*$"
+    }
+  ]
+}
